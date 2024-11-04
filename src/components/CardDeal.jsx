@@ -4,7 +4,7 @@ import Button from "./Button";
 
 const CardDeal = () => {
   const handleScanClick = () => {
-    window.open('YOUR_GFORM_LINK_FOR_SCAN', '_blank'); // Replace with your Google Form link
+    window.open('https://docs.google.com/forms/d/1qaVZGS4nVFuJXJL7x4xykSKqJ-U3yIVkqLlCHxLc0Cw/', '_blank'); // Replace with your Google Form link
   };
 
   return (
